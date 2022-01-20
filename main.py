@@ -2,7 +2,7 @@ from cProfile import run
 
 
 def run():
-    pass
+    print('Testing Git with a Python file')
 
 if __name__ = '__main__':
     run()
